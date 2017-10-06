@@ -7,15 +7,15 @@ DIAGRAMA CLASES          zaineb
 DIAGRAMA CLASES          Mario
   PELICULAS
   
-ENTIDAD / RELACION 
+ENTIDAD / RELACION       Pablo
   USUARIO
   
-ENTIDAD / RELACION
+ENTIDAD / RELACION       Gabri
   PELICULAS
 
-MODELO RELACIONAL
+MODELO RELACIONAL        Pablo / Gabri
 
-  DISEÑO    
+  DISEÑO                 Todos
 
 
 
