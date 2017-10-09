@@ -2,10 +2,10 @@ Modelo Relacional BBDD
 
 Tabla usuario
 PK*	usr_id (Autoincremental)
-VC2	usr_nom
-VC2	usr_ape
-VC2	usr_nck
-VC2	usr_pw
+VC	usr_nom
+VC	usr_ape
+VC	usr_nck
+VC	usr_pw
 
 Tabla cap
 PK*	cap_id (Autoincremental)
@@ -16,12 +16,13 @@ BOOL	cap_tipo
 
 Tabla peliculas
 PK*	pel_id (Autoincremental)
-VC2	pel_tit
-VC2	pel_dir
-VC2	pel_gen
+VC	pel_tit
+VC	pel_dir
+VC	pel_gen
 NUM	pel_dur
 NUM	pel_ano
-VC2	pel_res
-VC2	pel_ruta
+VC	pel_res
+VC	pel_ruta_img
+VC	pel_ruta2_img
 NUM	pel_precio_compra (Decimal)
 NUM	pel_precio_alq (Decimal??)
