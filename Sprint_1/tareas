@@ -6,8 +6,8 @@ ______________________
 REALIZAR SCRIPT                   ->PABLO
 BASE DE DATOS
 ______________________
-CLASE PELICULAS
-mostrarPeliculas()                ->MARIO
+CLASE PELICULAS                   -> ZAINEB
+mostrarPeliculas()
 ______________________
 CLASE PELICULAS
 mostrarDetalles()
@@ -15,7 +15,9 @@ ______________________
 MODIFICACION 
 DIAGRAMA CLASES                  -> MARIO
 PELICULA
-_____________________
+______________________
+DIAGRAMA CLASES
+COMPRA
 
 
           CADA PARTE DEL SPRINT QUE SE COJA AL LADO ESCRIBIR TU NOMBRE PARA NO HACER 2 PERSONAS LA MISMA TAREA
