@@ -10,7 +10,7 @@ CLASE PELICULAS                   -> ZAINEB
 mostrarPeliculas()
 ______________________
 CLASE PELICULAS
-mostrarDetalles()
+mostrarDetalles()                 ->MARIO
 ______________________
 MODIFICACION 
 DIAGRAMA CLASES                  -> MARIO
